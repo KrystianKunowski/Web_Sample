@@ -1,0 +1,23 @@
+.class_body {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px #000;
+    border:1px solid #000;
+}
+.class_nav
+{ 
+    background-color: #010A27; 
+    color: white;
+}
+.abril_font{
+font-family: 'Abril Fatface', cursive;
+font-family: 'Prompt', sans-serif;
+}
+.color_title{
+    background-color: #010A27; 
+    color: white;
+}
+.icon-white {
+    color: white;
+  }
